@@ -1,4 +1,4 @@
-
+# Steven Joseph, Mark, and Adam Lopez
 # Scrappy - Desktop buddy that checks if a website is safe
 
 import base64
